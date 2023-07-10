@@ -6,7 +6,7 @@
  */
 
 #pragma once
-#include "internals/com_bstr.h"
-#include "internals/com_lib.h"
-#include "internals/com_ptr.h"
-#include "internals/com_variant.h"
+#include "../../private/com_bstr.h"
+#include "../../private/com_lib.h"
+#include "../../private/com_ptr.h"
+#include "../../private/com_variant.h"

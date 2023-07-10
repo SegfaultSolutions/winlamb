@@ -8,7 +8,7 @@
 #pragma once
 #include <stdexcept>
 #include <vector>
-#include "internals/str_priv.h"
+#include "../../private/str_priv.h"
 
 namespace wl {
 

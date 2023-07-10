@@ -7,7 +7,7 @@
 
 #pragma once
 #include <Windows.h>
-#include "internals/enable_bitmask_operators.h"
+#include "../../private/enable_bitmask_operators.h"
 #include "wnd.h"
 
 namespace wl {

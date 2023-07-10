@@ -7,7 +7,7 @@
 
 #pragma once
 #include <functional>
-#include "../image_list.h"
+#include "../public/winlamb/image_list.h"
 
 namespace wl {
 namespace _wli {

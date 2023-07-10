@@ -7,7 +7,7 @@
 
 #pragma once
 #include <vector>
-#include "internals/params.h"
+#include "../../private/params.h"
 #include "wnd.h"
 
 namespace wl {

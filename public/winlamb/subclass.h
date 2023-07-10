@@ -6,8 +6,8 @@
  */
 
 #pragma once
-#include "internals/base_msg_pubm.h"
-#include "internals/base_thread_pubm.h"
+#include "../../private/base_msg_pubm.h"
+#include "../../private/base_thread_pubm.h"
 #include "wnd.h"
 #include <CommCtrl.h>
 

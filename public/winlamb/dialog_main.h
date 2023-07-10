@@ -6,13 +6,13 @@
  */
 
 #pragma once
-#include "internals/base_dialog.h"
-#include "internals/base_loop.h"
-#include "internals/base_msg_pubm.h"
-#include "internals/base_text_pubm.h"
-#include "internals/base_thread_pubm.h"
-#include "internals/run.h"
-#include "internals/styler.h"
+#include "../../private/base_dialog.h"
+#include "../../private/base_loop.h"
+#include "../../private/base_msg_pubm.h"
+#include "../../private/base_text_pubm.h"
+#include "../../private/base_thread_pubm.h"
+#include "../../private/run.h"
+#include "../../private/styler.h"
 #include "wnd.h"
 
 namespace wl {

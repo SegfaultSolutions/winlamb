@@ -12,7 +12,7 @@
 #include "str.h"
 #include "wnd.h"
 #include <Shlobj.h>
-#include "internals/sysdlg_priv.h"
+#include "../../private/sysdlg_priv.h"
 
 namespace wl {
 

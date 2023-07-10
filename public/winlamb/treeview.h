@@ -6,11 +6,11 @@
  */
 
 #pragma once
-#include "internals/base_focus_pubm.h"
-#include "internals/base_native_ctrl_pubm.h"
-#include "internals/member_image_list.h"
-#include "internals/treeview_item_collection.h"
-#include "internals/treeview_styler.h"
+#include "../../private/base_focus_pubm.h"
+#include "../../private/base_native_ctrl_pubm.h"
+#include "../../private/member_image_list.h"
+#include "../../private/treeview_item_collection.h"
+#include "../../private/treeview_styler.h"
 #include "wnd.h"
 
 namespace wl {

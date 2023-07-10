@@ -6,12 +6,12 @@
  */
 
 #pragma once
-#include "internals/base_focus_pubm.h"
-#include "internals/base_native_ctrl_pubm.h"
-#include "internals/listview_column_collection.h"
-#include "internals/listview_item_collection.h"
-#include "internals/listview_styler.h"
-#include "internals/member_image_list.h"
+#include "../../private/base_focus_pubm.h"
+#include "../../private/base_native_ctrl_pubm.h"
+#include "../../private/listview_column_collection.h"
+#include "../../private/listview_item_collection.h"
+#include "../../private/listview_styler.h"
+#include "../../private/member_image_list.h"
 #include "menu.h"
 #include "subclass.h"
 #include "wnd.h"

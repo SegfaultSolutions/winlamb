@@ -7,9 +7,9 @@
 
 #pragma once
 #include <vector>
-#include "internals/base_native_ctrl_pubm.h"
-#include "internals/params.h"
-#include "internals/styler.h"
+#include "../../private/base_native_ctrl_pubm.h"
+#include "../../private/params.h"
+#include "../../private/styler.h"
 #include "icon.h"
 #include "wnd.h"
 

@@ -8,7 +8,7 @@
 #pragma once
 #include "base_msg.h"
 #include "base_scroll.h"
-#include "../font.h"
+#include "../public/winlamb/font.h"
 
 namespace wl {
 namespace _wli {

@@ -9,7 +9,7 @@
 #include <system_error>
 #include <VersionHelpers.h>
 #include "wnd.h"
-#include "internals/enable_bitmask_operators.h"
+#include "../../private/enable_bitmask_operators.h"
 
 namespace wl {
 

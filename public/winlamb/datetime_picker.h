@@ -6,9 +6,9 @@
  */
 
 #pragma once
-#include "internals/base_focus_pubm.h"
-#include "internals/base_native_ctrl_pubm.h"
-#include "internals/styler.h"
+#include "../../private/base_focus_pubm.h"
+#include "../../private/base_native_ctrl_pubm.h"
+#include "../../private/styler.h"
 #include "datetime.h"
 #include "wnd.h"
 #include <CommCtrl.h>

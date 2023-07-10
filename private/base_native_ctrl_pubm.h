@@ -7,7 +7,7 @@
 
 #pragma once
 #include "base_native_ctrl.h"
-#include "../wnd.h"
+#include "../public/winlamb/wnd.h"
 
 namespace wl {
 namespace _wli {
